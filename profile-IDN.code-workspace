@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/png2svg"
+		},
+		{
+			"path": "../wallpaper"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "profile-IDN"
+	}
+}
